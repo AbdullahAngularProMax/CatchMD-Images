@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; connect-src 'self';font-src 'self'; img-src 'self' data: https:; style-src 'self' ; script-src 'self'">
+
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="768px" height="168px" viewBox="0 0 768 168" enable-background="new 0 0 768 168" xml:space="preserve">  <image id="image0" width="768" height="168" x="0" y="0"
     href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAwAAAACoCAYAAABXJomQAAAABGdBTUEAALGPC/xhBQAAACBjSFJN
